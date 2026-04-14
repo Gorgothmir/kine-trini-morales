@@ -6,7 +6,7 @@ Landing page profesional para servicios de kinesiología, enfocada en captación
 
 ## 🚀 Demo
 
-*(Agregar link cuando esté deployado)*
+
 
 ---
 
