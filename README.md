@@ -4,12 +4,6 @@ Landing page profesional para servicios de kinesiología, enfocada en captación
 
 ---
 
-## 🚀 Demo
-
-
-
----
-
 ## 🎯 Objetivo
 
 Crear una página simple, rápida y efectiva que:
